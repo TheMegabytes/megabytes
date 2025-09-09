@@ -1,22 +1,29 @@
-# megabytes - 
-Junior developer (Student) learning IT to build real-world software and grow as a developer. 
+👋 Hey, I’m megabytes
 
-# Currently learning Learning:
-Python basics, 
-HTML, CSS $ JS (React), 
-PHP & MySQL,
-Linux
+🚀 Junior developer & IT student learning how to build real-world software while leveling up as a developer.
 
-#Tools I use:
-VS Code,
-Kali Linux
+🌱 Currently Learning
 
-#Goals:
-Become a full-stack web developer,
-Learn Ethical Hacking and Cybersecurity,
-Build cool and useful projects
+Python (fundamentals & scripting)
 
-#Reach me:
+Web Dev: HTML, CSS, JavaScript (React)
+
+Backend: PHP & MySQL
+
+Linux (daily driver: Kali Linux)
+
+🛠 Tools I Use
+
+VS Code – coding & debugging
+
+Kali Linux – development & practice environment
+
+🎯 Goals
+
+Become a full-stack web developer
+
+Build cool, useful projects that solve real problems
+
+📫 Reach Me
+
 Email: dmwirigi005@gmail.com
-
-Thanks For Stopping By!
